@@ -145,9 +145,16 @@
     <!-- Footer -->
     <footer>
       <div class="container">
-        <div class="row">
-          
-        </div>
+          <div class="row text-center">
+            <div class="col-sm-12">
+              <p>&copy 2017 | built by. <a href="">Eka Fajhari Adwar</a>.</p>
+            </div>
+          </div>
+          <div class="row text-center">
+            <div class="col-sm-12">
+              <a href="" class="btn btn-danger"><i class="glyphicon glyphicon-play"></i> Subscribe to YouTube</a>
+            </div>
+          </div>
       </div>
     </footer>
     <!-- /Footer -->
