@@ -101,6 +101,29 @@
     </section>
     <!-- /portfolio -->
 
+    <!-- contact -->
+    <section class="contact" id="contact">
+      <div class="container">
+        <div class="row text-center">
+          <div class="col-sm-12">
+            <h2>Contact</h2>
+            <hr>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-sm-12">
+            <form>
+              <div class="form-group">
+                <label for="nama">Nama</label>
+                <input type="text" id="nama" class="form-control">
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- /contact -->
+
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
