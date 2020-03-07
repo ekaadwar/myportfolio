@@ -57,6 +57,19 @@
       </div>
     </section>
     <!-- akhir About -->
+    
+    <!-- portfolio -->
+    <section class="portfolio" id="portfolio">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-12 text-center">
+            <h2>Portfolio</h2>
+            <hr>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- /portfolio -->
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
