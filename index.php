@@ -20,9 +20,16 @@
   </head>
   <body>
     <!-- Navbar -->
-      <nav class="navbar navbar-default">
+      <nav class="navbar navbar-inverse navbar-fixed-top">
         <div class="container-fluid">
-          
+          <div class="navbar-header">
+            <a href="" class="navbar-brand">Eka Fajhari Adwar</a>
+          </div>
+          <ul class="nav navbar-nav navbar-right">
+            <li><a href="">About</a></li>
+            <li><a href="">Portfolio</a></li>
+            <li><a href="">Contact</a></li>
+          </ul>
         </div>
       </nav>
     <!-- /Navbar -->
