@@ -19,6 +19,14 @@
     <![endif]-->
   </head>
   <body>
+    <!-- Navbar -->
+      <nav class="navbar navbar-default">
+        <div class="container-fluid">
+          
+        </div>
+      </nav>
+    <!-- /Navbar -->
+
     <!-- jumbotron -->
     <div class="jumbotron text-center">
       <img src="gambar/poto1x1.jpg" class="img-circle">
