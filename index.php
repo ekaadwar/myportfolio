@@ -23,13 +23,22 @@
       <nav class="navbar navbar-inverse navbar-fixed-top">
         <div class="container-fluid">
           <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
             <a href="" class="navbar-brand">Eka Fajhari Adwar</a>
           </div>
-          <ul class="nav navbar-nav navbar-right">
-            <li><a href="">About</a></li>
-            <li><a href="">Portfolio</a></li>
-            <li><a href="">Contact</a></li>
-          </ul>
+          <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav navbar-right">
+              <li><a href="">About</a></li>
+              <li><a href="">Portfolio</a></li>
+              <li><a href="">Contact</a></li>
+            </ul>
+          </div> 
+            
         </div>
       </nav>
     <!-- /Navbar -->
@@ -175,7 +184,7 @@
     <!-- /Footer -->
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="js/jquery-3.4.1.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="js/bootstrap.min.js"></script>
   </body>
