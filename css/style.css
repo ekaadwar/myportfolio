@@ -7,6 +7,10 @@ body{
 	margin-top : 30px;
 }
 
+.jumbotron{
+	background-image : url('../gambar/header-bg.jpg');
+}
+
 .jumbotron img{
 	width : 200px;
 	border : 5px solid #666;
