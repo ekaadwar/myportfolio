@@ -53,7 +53,7 @@
 
     <!-- About -->
     <section class="about" id="about">
-      <div class="container">
+      <div class="container content">
         <div class="row">
           <div class="col-sm-12">
             <h2 class="text-center">About</h2>
@@ -84,7 +84,7 @@
     
     <!-- portfolio -->
     <section class="portfolio" id="portfolio">
-      <div class="container">
+      <div class="container content">
         <div class="row">
           <div class="col-sm-12 text-center">
             <h2>Portfolio</h2>
@@ -127,7 +127,7 @@
 
     <!-- contact -->
     <section class="contact" id="contact">
-      <div class="container">
+      <div class="container content">
         <div class="row text-center">
           <div class="col-sm-12">
             <h2>Contact</h2>
@@ -184,7 +184,8 @@
     <!-- /Footer -->
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-    <script src="js/jquery-3.4.1.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- <script src="js/jquery-3.4.1.min.js"></script> -->
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="js/bootstrap.min.js"></script>
     <script src="js/script.js"></script>
