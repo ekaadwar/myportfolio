@@ -9,7 +9,7 @@
  	// pindahkan scroll
  	$('html, body').animate({
  		scrollTop: elemenTujuan.offset().top - 50
- 	}, 2000, 'swing' );
+ 	}, 700, 'swing' );
 
  	// console.log(elemenTujuan);
 
