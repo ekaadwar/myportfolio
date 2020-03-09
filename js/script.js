@@ -3,10 +3,11 @@
  	// ambil isi href
  	var tujuan = $(this).attr('href');
  	
- 	//tangkap elemen bersangkutan
+ 	// tangkap elemen bersangkutan
  	var elemenTujuan = $(tujuan);
 
- 	console.log($('body').scrollTop());
+ 	// pindahkan scroll
+ 	$('body').scrollTop('700');
 
  	e.preventDefault();
 
