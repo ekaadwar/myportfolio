@@ -36,16 +36,16 @@ section{
 }
 
 .pKiri, .pKanan{
-	transform : translate(-40px, 0);
+	transform : translate(-40px, 0) rotate(15deg);
 	opacity : 0;
 	transition : 0.5s;
 }
 
 .pKanan{
-	transform : translate(-40px, 0);
+	transform : translate(40px, 0) rotate(-15deg);
 }
 
-.pKiri.pMuncul, .pKiri.pMuncul{
+.pKiri.pMuncul, .pKanan.pMuncul{
 	opacity : 1;
 	transform : translate(0, 0);
 }
