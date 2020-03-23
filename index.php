@@ -171,12 +171,17 @@
       <div class="container">
           <div class="row text-center">
             <div class="col-sm-12">
-              <p>&copy 2017 | built by. <a href="">Eka Fajhari Adwar</a>.</p>
+              <p>
+                Alamat : <a href="">
+                  JL PELITA NO. 13, LUBUK SIKAPING, PASAMAN<BR>
+                  SUMATERA BARAT - INDONESIA
+                </a>.
+              </p>
             </div>
           </div>
           <div class="row text-center">
             <div class="col-sm-12">
-              <a href="" class="btn btn-danger"><i class="glyphicon glyphicon-play"></i> Subscribe to YouTube</a>
+              <p>&copy 2017 | built by. <a href="">Eka Fajhari Adwar</a>.</p>
             </div>
           </div>
       </div>
