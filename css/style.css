@@ -166,12 +166,10 @@ td.td_icon{
 	hr.aboutContent{
 		display : none;
 	}
-
-
 }
 
 /*Desktop-Tablet Version*/
-@media(min-width: 500px){
+@media(min-width: 495px){
 	footer{
 		height : 130px;
 	}
