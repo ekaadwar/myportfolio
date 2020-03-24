@@ -34,10 +34,31 @@ body{
 hr{
 	width : 250px;
 	border-top : 3px solid #999;
+	margin-bottom : 50px;
 }
 
 section{
 	min-height : 600px;
+}
+
+h2.white-section{
+	color : #362109;
+}
+
+hr.white-section{
+	border-top : 3px solid #362109;
+}
+
+.brown-section{
+	background-color :  #362109;
+}
+
+.brown-section hr{
+	border-top : 3px solid white;
+}
+
+.brown-section h2{
+	color : white;
 }
 
 .pKiri, .pKanan{
@@ -53,10 +74,6 @@ section{
 .pKiri.pMuncul, .pKanan.pMuncul{
 	opacity : 1;
 	transform : translate(0, 0);
-}
-
-.portfolio{
-	background-color : #eee;
 }
 
 .portfolio .thumbnail{

@@ -56,8 +56,8 @@
       <div class="container content">
         <div class="row">
           <div class="col-sm-12">
-            <h2 class="text-center">About</h2>
-            <hr>
+            <h2 class="text-center white-section">About</h2>
+            <hr class="white-section">
           </div>
         </div>
         <div class="row">
@@ -83,7 +83,7 @@
     <!-- akhir About -->
     
     <!-- portfolio -->
-    <section class="portfolio" id="portfolio">
+    <section class="portfolio brown-section" id="portfolio">
       <div class="container content">
         <div class="row">
           <div class="col-sm-12 text-center">
@@ -130,8 +130,8 @@
       <div class="container content">
         <div class="row text-center">
           <div class="col-sm-12">
-            <h2>Contact</h2>
-            <hr>
+            <h2 class="white-section">Contact</h2>
+            <hr class="white-section">
           </div>
         </div>
         <div class="row">
