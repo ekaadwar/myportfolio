@@ -37,6 +37,10 @@ hr{
 	margin-bottom : 50px;
 }
 
+hr.aboutContent{
+	margin-bottom : 10px;
+}
+
 section{
 	min-height : 600px;
 }
@@ -95,11 +99,21 @@ hr.white-section{
 	border : 1px solid #cca77d;
 }
 
-footer{
+/*footer{
 	position : absolute;
 	bottom : 0;
 	width : 100%;
 	height : 130px;
+	background-color : #362109;
+	padding-top : 10px;
+	font-size : 0.85em;
+}*/
+
+footer{
+	position : absolute;
+	bottom : 0;
+	width : 100%;
+	height : 150px;
 	background-color : #362109;
 	padding-top : 10px;
 	font-size : 0.85em;
@@ -135,4 +149,31 @@ td.td_icon{
 
 .goToLeft{
 	text-align : left;
+}
+
+/*Desktop Version*/
+@media(min-width: 768px){
+	.navbar-right a{
+		text-transform : uppercase;
+	}
+
+
+	.pKiri{
+		text-align : right;
+	}
+
+
+	hr.aboutContent{
+		display : none;
+	}
+
+
+}
+
+/*Desktop-Tablet Version*/
+@media(min-width: 500px){
+	footer{
+		height : 130px;
+	}
+
 }

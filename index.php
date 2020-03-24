@@ -62,20 +62,12 @@
         </div>
         <div class="row">
           <div class="col-sm-4 col-sm-offset-2">
-            <p class="pKiri">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-            tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-            quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-            consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-            cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-            proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            <p class="pKiri">Hai, Anda dapat menyapa saya dengan Eka. Saya adalah lulusan program sarjana dari Jurusan Fisika Fakultas Matematika dan Ilmu Pengetahuan Alam Universitas Andalas, salah satu perguruan tinggi negeri di Kota Padang. Saya sangat suka dalam dunia Web Programming dan desain grafis disamping ilmu fisika.</p>
+            <p class="pKiri">Semasa kuliah, saya mengisi waktu luang dengan berorganisasi yang berlandas pada teknologi. Disana saya terus mengasah ilmu desain grafis yang juga merupakan hobi sejak SMA. Saya mulai mengenal pemrograman website dari salah satu dosen saya yang bernama Bapak Dr. Zulfi. Beliau memperkenalkan salah satu proyek nya yang bernama Appskep. Dari sinilah saya mulai jatuh cinta akan dunia website.</p>
+            <hr class="white-section aboutContent">
           </div>
           <div class="col-sm-4">
-            <p class="pKanan">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-            tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-            quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-            consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-            cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-            proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            <p class="pKanan">English Version is not found.</p>
           </div>
         </div>
       </div>
