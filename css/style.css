@@ -91,6 +91,10 @@ hr.white-section{
 	min-height : 800px;
 }
 
+.form-control{
+	border : 1px solid #cca77d;
+}
+
 footer{
 	position : absolute;
 	bottom : 0;
