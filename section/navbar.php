@@ -14,6 +14,7 @@
         <li><a href="#about" class="page-scroll">About</a></li>
         <li><a href="#portfolio" class="page-scroll">Portfolio</a></li>
         <li><a href="#contact" class="page-scroll">Contact</a></li>
+        <li><a href="#cv" class="page-scroll">Currricukum Vitae</a></li>
       </ul>
     </div> 
       
