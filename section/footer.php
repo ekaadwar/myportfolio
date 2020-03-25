@@ -9,13 +9,15 @@
               </td>
               <td class="goToLeft">
                 <p>
-                  JL. PELITA NO. 13, LUBUK SIKAPING, PASAMAN<BR>
-                  SUMATERA BARAT - INDONESIA
+                  <?php 
+                  echo $privasi['alamat1']."<br>";
+                  echo $privasi['alamat2'];
+                  ?>
                 </p>
               </td>
               <td class="goToRight">
-                <a href="">
-                  Eka Fajhari Adwar
+                <a href="<?php echo $privasi['url_linkedin']; ?>">
+                  <?php echo $privasi['linkedin']; ?>
                 </a>
               </td>
               <td class="td-icon goToLeft">
@@ -29,12 +31,12 @@
               </td>
               <td class="goToLeft">
                 <p>
-                  082169150233
+                  <?php echo $privasi['hp']; ?>
                 </p>
               </td>
               <td class="goToRight">
-                <a href="">
-                  https://github.com/ekaadwar
+                <a href="<?php echo $privasi['github']; ?>">
+                  <?php echo $privasi['github']; ?>
                 </a>
               </td>
               <td class="td-icon goToLeft">
@@ -48,12 +50,12 @@
               </td>
               <td class="goToLeft">
                 <p>
-                  ekafajhariadwar@gmail.com
+                  <?php echo $privasi['email']; ?>
                 </p>
               </td>
               <td class="goToRight">
-                <a href="">
-                  @ekaadwar
+                <a href="<?php echo $privasi['url_ig']; ?>">
+                  <?php echo $privasi['ig']; ?>
                 </a>
               </td>
               <td class="td-icon goToLeft">
@@ -61,12 +63,11 @@
               </td>
             </tr>
           </table>
-                
         </div>
       </div>
       <div class="row text-center">
         <div class="col-sm-12">
-          <p>&copy 2020 | built by <a href="">Eka Fajhari Adwar</a>.</p>
+          <p>&copy 2020 | built by <a href="<?php echo $privasi['url_fb']; ?>">Eka Fajhari Adwar</a>.</p>
         </div>
       </div>
   </div>

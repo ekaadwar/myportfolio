@@ -7,7 +7,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a href="#home" class="navbar-brand page-scroll">Eka Fajhari Adwar</a>
+      <a href="#home" class="navbar-brand page-scroll"><?php echo $privasi['nama']; ?></a>
     </div>
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav navbar-right">

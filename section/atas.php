@@ -1,3 +1,12 @@
+<?php 
+  include "sql/connPortfolio.php";
+  $sql = "SELECT * FROM privasi";
+  $result = $connPortfolio->query($sql);
+  if($result->num_rows>0){
+    $privasi = $result->fetch_assoc();
+  } 
+ ?>
+
 <!DOCTYPE html>
 <html lang="en" id="home">
   <head>

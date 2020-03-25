@@ -19,7 +19,7 @@
 								url_linkedin VARCHAR(100) NOT NULL
 								)";
 
-	if($conn_Portfolio->query($sql)===true){
+	if($connPortfolio->query($sql)===true){
 		echo "Tabel $dbName berhasil dibuat.<br>";
 	}else{
 		die("Tabel $dbName gagal dibuat : ". $conn_Portfolio->error."<br>");
