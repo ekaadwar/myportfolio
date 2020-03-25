@@ -1,12 +1,7 @@
 <?php 
-	$conn_Portfolio = new mysqli("localhost","root", "", "portfolio");
-	if($conn_Portfolio->connect_error){
-		die("Connection Failed : ". $conn_Portfolio->connect_error). "<br>";
-	}
-	echo "Connected successfully. <br>";
+	include "connPortfolio.php";
 
 	$dbName = "privasi";
-
 	$sql = "CREATE TABLE $dbName (
 								id INT (3) AUTO_INCREMENT PRIMARY KEY,
 								nama VARCHAR(100) NOT NULL,
@@ -29,5 +24,4 @@
 	}else{
 		die("Tabel $dbName gagal dibuat : ". $conn_Portfolio->error."<br>");
 	}
-
  ?>
