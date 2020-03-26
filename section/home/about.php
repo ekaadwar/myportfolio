@@ -1,3 +1,6 @@
+<?php 
+  
+ ?>
 <section class="about" id="about">
   <div class="container content">
     <div class="row">
