@@ -30,9 +30,13 @@
             <label for="pesan">Pesan</label>
             <textarea name="pesan" class="form-control" rows="10" placeholder="masukkan pesan"></textarea>  
           </div>
-          <button type="submit" name="kirim" class="btn btn-warning">Kirim Pesan</button>
+          <!-- <button type="submit" name="kirim" class="btn btn-warning">Kirim Pesan</button> -->
+          <input type="submit" name="kirim" value="Kirim Pesan" class="btn btn-warning">
         </form>
       </div>
     </div>
   </div>
 </section>
+<?php 
+  include "sql/insert/insTbContact.php";
+ ?>
