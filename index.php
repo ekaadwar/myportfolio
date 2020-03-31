@@ -6,5 +6,5 @@
   include "section/page/home/portfolio.php";
   include "section/page/home/contact.php";
   include "section/footer.php";
-  include "section/bawah.php"
+  include "section/bawah.php";
  ?>

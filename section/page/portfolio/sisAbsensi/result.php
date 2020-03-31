@@ -1,12 +1,12 @@
-<section class="portfolio brown-section" id="portfolio">
+<section class="portfolio white-section" id="result">
   <div class="container content">
     <div class="row">
       <div class="col-sm-12 text-center">
-        <h2>Portfolio</h2>
-        <hr>
+        <h2 class="white-section">Result</h2>
+        <hr class="white-section">
       </div>
       <div class="col-sm-4">
-        <a href="lamanPortfolio.php" class="thumbnail">
+        <a href="" class="thumbnail">
           <img src="gambar/portfolio/1.jpg">  
         </a>
       </div>

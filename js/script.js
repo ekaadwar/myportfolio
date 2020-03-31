@@ -48,4 +48,14 @@
 			}, 300 * i);
  		});
  	}
+
+ 	// design ->page: portfolio
+ 	if(wScroll > $('.design').offset().top - 250){
+ 		$('.design .thumbnail').each(function(i){
+			setTimeout(function(){
+				$('.design .thumbnail').eq(i).addClass('muncul');	
+			}, 300 * i);
+ 		});
+ 	}
+
  })
