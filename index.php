@@ -21,7 +21,7 @@
   <body>
     <!-- Navbar -->
       <nav class="navbar navbar-inverse navbar-fixed-top">
-        <div class="container-fluid">
+        <div class="container">
           <div class="navbar-header">
             <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
               <span class="sr-only">Toggle navigation</span>
@@ -35,10 +35,10 @@
             <ul class="nav navbar-nav navbar-right">
               <li><a href="#about" class="page-scroll">About</a></li>
               <li><a href="#portfolio" class="page-scroll">Portfolio</a></li>
+              <li><a href="#ability" class="page-scroll">Ability</a></li>
               <li><a href="#contact" class="page-scroll">Contact</a></li>
             </ul>
           </div> 
-            
         </div>
       </nav>
     <!-- /Navbar -->
@@ -62,20 +62,10 @@
         </div>
         <div class="row">
           <div class="col-sm-4 col-sm-offset-2">
-            <p class="pKiri">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-            tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-            quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-            consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-            cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-            proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            <p class="pKiri text-right">Hai, perkenalkan saya Eka Fajhari Adwar. Anda dapat menyapa saya dengan Eka. Saya adalah lulusan program sarjana Jurusan Fisika FMIPA Universitas Andalas. Saya menyukai dunia pemrograman terutama Web Programming. Saya juga menyukai Desain grafis dan menjadikannya sebagai hobi untuk mengisi waktu kosong.</p>
           </div>
           <div class="col-sm-4">
-            <p class="pKanan">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-            tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-            quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-            consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-            cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-            proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            <p class="pKanan text-left">Hi, introduce me to Eka Fajhari Adwar. You can greet me with Eka. I am a graduate of the undergraduate program in the Physics Department of Andalas University. I like programming world especially Web Programming. I also like graphic design and as a hobby to fill my spare time.</p>
           </div>
         </div>
       </div>
@@ -124,6 +114,51 @@
       </div>
     </section>
     <!-- /portfolio -->
+
+    <!-- ability -->
+    <section class="ability" id="ability">
+      <div class="container">
+        <div class="col-sm-12 text-center mb-3">
+            <h2>Portfolio</h2>
+            <hr>
+        </div>
+        <div class="row justify-content-center">
+          <div class="col-sm-3">
+            <a href="" class="figure-img img-fluid rounded text-center">
+              <p>PHP Programming</p>
+              <img src="gambar/ability/php-logo.png" width="100" class="rounded mx-auto d-block"><br>
+            </a>
+          </div>
+          <div class="col-sm-3">
+            <a href="" class="figure-img img-fluid rounded text-center">
+              <p>MySQL</p>
+              <img src="gambar/ability/MySQL.png" width="100" class="rounded mx-auto d-block"><br>
+            </a>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-sm-3">
+            <a href="" class="figure-img img-fluid rounded text-center">
+              <p>HTML 5</p>
+              <img src="gambar/ability/HTML5.png" width="100" class="rounded mx-auto d-block"><br>
+            </a>
+          </div>
+          <div class="col-sm-3">
+            <a href="" class="figure-img img-fluid rounded text-center">
+              <p>CSS 3</p>
+              <img src="gambar/ability/css.jpg" width="100" class="rounded mx-auto d-block"><br>
+            </a>
+          </div>
+          <div class="col-sm-3">
+            <a href="" class="figure-img img-fluid rounded text-center">
+              <p>Javascript</p>
+              <img src="gambar/ability/JavaScript.png" width="100" class="rounded mx-auto d-block"><br>
+            </a>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- /ability -->
 
     <!-- contact -->
     <section class="contact" id="contact">
